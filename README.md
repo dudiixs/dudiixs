@@ -70,16 +70,6 @@ public class SalesforceProfessional {
 
 ---
 
-> ## 🏆 GitHub Trophies
-> 
-> <div align="center">
-> 
-> ![Trophies](https://github-profile-trophy.vercel.app/?username=dudiixs&theme=tokyonight&column=6)
-> 
-> </div>
-
----
-
 ## 🎯 Foco Atual
 
 - 🚀 Aprofundar conhecimentos em **Salesforce Well-Architected**
