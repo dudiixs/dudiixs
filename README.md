@@ -64,20 +64,19 @@ public class SalesforceProfessional {
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dudiixs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudiixs&layout=compact&theme=tokyonight)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudiixs&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dudiixs&theme=tokyonight&column=6)
-
-</div>
+> ## 🏆 GitHub Trophies
+> 
+> <div align="center">
+> 
+> ![Trophies](https://github-profile-trophy.vercel.app/?username=dudiixs&theme=tokyonight&column=6)
+> 
+> </div>
 
 ---
 
