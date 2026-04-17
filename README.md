@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DTeu%2520Nome%2520Aqui%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DEduardo%2520Martins%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
 
 <h1>☁️ Salesforce Developer | DevOps Engineer 🚀</h1>
 
@@ -16,7 +16,7 @@ class SalesforceProfessional:
     def __init__(self):
         self.name = "Eduardo Martins"
         self.role = "Developer & DevOps Specialist"
-        self.location = "Brazil"
+        self.location = "Brazil 🇧🇷"
         self.specialties = ["Apex", "LWC", "Sales Cloud", "CI/CD"]
         self.passion = "Automating business processes and scaling cloud architecture"
         self.current_learning = "Advanced DevOps for Salesforce & Copado"
@@ -62,18 +62,18 @@ Linguagens & Web
 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO%26layout%3Dcompact%26theme%3Dtokyonight" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddudiixs%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddudiixs%26layout%3Dcompact%26theme%3Dtokyonight" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSEU_USUARIO%26theme%3Dtokyonight" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddudiixs%26theme%3Dtokyonight" />
 </div>
 
 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DSEU_USUARIO%26theme%3Dtokyonight%26column%3D6" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddudiixs%26theme%3Dtokyonight%26column%3D6" />
 </p>
 
 🎯 Foco Atual
@@ -95,5 +95,5 @@ Linguagens & Web
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%" />
-<p>Feito com ❤️ por Eduardo</p>
+<p>Feito com ❤️ por Eduardo Martins</p>
 </div>
