@@ -1,99 +1,102 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DEduardo%2520Martins%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
 
-<h1>☁️ Salesforce Developer | DevOps Engineer 🚀</h1>
+# Eduardo Martins
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.salesforce.com/trailblazer/c12l57gewamewzal2l"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Trailhead-Trailblazer-blue%3Fstyle%3Dfor-the-badge%26logo%3Dsalesforce" alt="Trailhead"></a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/eduardo-tadeu-9ab7371b8/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://www.google.com/search?q=https://github.com/dudiixs"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"></a>
-</p>
+### ☁️ Salesforce Developer | DevOps Engineer 🚀
+
+[![Trailhead](https://img.shields.io/badge/Trailhead-Trailblazer-blue?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/c12l57gewamewzal2l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-tadeu-9ab7371b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudiixs)
+
 </div>
 
-👨‍💻 Sobre Mim
+---
 
-class SalesforceProfessional:
-    def __init__(self):
-        self.name = "Eduardo Martins"
-        self.role = "Developer & DevOps Specialist"
-        self.location = "Brazil 🇧🇷"
-        self.specialties = ["Apex", "LWC", "Sales Cloud", "CI/CD"]
-        self.passion = "Automating business processes and scaling cloud architecture"
-        self.current_learning = "Advanced DevOps for Salesforce & Copado"
+## 👨‍💻 Sobre Mim
 
-    def greeting(self):
-        print("A construir soluções escaláveis no ecossistema Salesforce!")
+```apex
+public class SalesforceProfessional {
+    public String name = "Eduardo Martins";
+    public String role = "Developer & DevOps Specialist";
+    public String location = "Brazil 🇧🇷";
+    public List<String> specialties = new List<String>{'Apex', 'LWC', 'Sales Cloud', 'CI/CD'};
+    public String passion = "Automating business processes and scaling cloud architecture";
+    public String currentLearning = "Advanced DevOps for Salesforce & Copado";
 
-me = SalesforceProfessional()
-me.greeting()
+    public void greeting() {
+        System.debug("A construir soluções escaláveis no ecossistema Salesforce!");
+    }
+}
+```
 
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Salesforce Ecosystem
+**Salesforce Ecosystem**
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Salesforce-00A1E0%3Fstyle%3Dfor-the-badge%26logo%3Dsalesforce%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apex-DeepSkyBlue%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LWC-Yellow%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SOQL-Black%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visualforce-blue%3Fstyle%3Dfor-the-badge" />
-</p>
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-DeepSkyBlue?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-Yellow?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-Black?style=for-the-badge)
+![Visualforce](https://img.shields.io/badge/Visualforce-blue?style=for-the-badge)
 
-DevOps & Automation
+**DevOps & Automation**
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SFDX-00A1E0%3Fstyle%3Dfor-the-badge%26logo%3Dsalesforce%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Copado-Blue%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SFDX](https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Copado](https://img.shields.io/badge/Copado-Blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Linguagens & Web
+**Linguagens & Web**
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddudiixs%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddudiixs%26layout%3Dcompact%26theme%3Dtokyonight" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dudiixs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudiixs&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudiixs&theme=tokyonight)
+
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddudiixs%26theme%3Dtokyonight" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dudiixs&theme=tokyonight&column=6)
+
 </div>
 
-🏆 GitHub Trophies
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddudiixs%26theme%3Dtokyonight%26column%3D6" />
-</p>
+## 🎯 Foco Atual
 
-🎯 Foco Atual
+- 🚀 Aprofundar conhecimentos em **Salesforce Well-Architected**
+- 🛠️ Implementar pipelines de CI/CD complexas usando **GitHub Actions** e **SFDX**
+- ⚡ Otimização de performance em componentes **LWC**
+- ☁️ Exploração de integrações via **MuleSoft** ou **APIs REST**
 
-🚀 Aprofundar conhecimentos em Salesforce Well-Architected.
+---
 
-🛠️ Implementar pipelines de CI/CD complexas usando GitHub Actions e SFDX.
-
-⚡ Otimização de performance em componentes LWC.
-
-☁️ Exploração de integrações via MuleSoft ou APIs REST.
-
-📫 Vamos Conectar!
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/eduardo-tadeu-9ab7371b8/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:dudis.tadeu@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-</p>
+## 📫 Vamos Conectar!
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%" />
-<p>Feito com ❤️ por Eduardo Martins</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-tadeu-9ab7371b8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudis.tadeu@gmail.com)
+
+*Feito com ❤️ por Eduardo Martins*
+
 </div>
